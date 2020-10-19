@@ -1,0 +1,11 @@
+D:\Arquivos\Projetos\apresentação await async\bin\Debug\netcoreapp3.1\app.exe
+D:\Arquivos\Projetos\apresentação await async\bin\Debug\netcoreapp3.1\app.deps.json
+D:\Arquivos\Projetos\apresentação await async\bin\Debug\netcoreapp3.1\app.runtimeconfig.json
+D:\Arquivos\Projetos\apresentação await async\bin\Debug\netcoreapp3.1\app.runtimeconfig.dev.json
+D:\Arquivos\Projetos\apresentação await async\bin\Debug\netcoreapp3.1\app.dll
+D:\Arquivos\Projetos\apresentação await async\bin\Debug\netcoreapp3.1\app.pdb
+D:\Arquivos\Projetos\apresentação await async\obj\Debug\netcoreapp3.1\app.csprojAssemblyReference.cache
+D:\Arquivos\Projetos\apresentação await async\obj\Debug\netcoreapp3.1\app.AssemblyInfoInputs.cache
+D:\Arquivos\Projetos\apresentação await async\obj\Debug\netcoreapp3.1\app.AssemblyInfo.cs
+D:\Arquivos\Projetos\apresentação await async\obj\Debug\netcoreapp3.1\app.dll
+D:\Arquivos\Projetos\apresentação await async\obj\Debug\netcoreapp3.1\app.pdb
